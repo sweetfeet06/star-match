@@ -5,3 +5,4 @@ coverage/
 .reactful.json
 .env
 .vscode/
+.idea
